@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" shouldLog="false" />
+  </component>
+</application>
